@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UVCCamera-master.iml" filepath="$PROJECT_DIR$/UVCCamera-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libuvccamera/libuvccamera.iml" filepath="$PROJECT_DIR$/libuvccamera/libuvccamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usbCameraTest7/usbCameraTest7.iml" filepath="$PROJECT_DIR$/usbCameraTest7/usbCameraTest7.iml" />
+    </modules>
+  </component>
+</project>
